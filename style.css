@@ -6,6 +6,14 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-div {
-    
+section {
+    height: 500px;
+    background-color: blanchedalmond;
+}
+
+footer {
+    text-align: center;
+    background-color: #a45629;
+    color: bisque;
+    padding: 5px;
 }
